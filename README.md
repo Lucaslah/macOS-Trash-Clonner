@@ -7,4 +7,4 @@ Step 2. Unzip the file and open the folder "Trash Clonner"
 
 Step 3. click on the run.command file 
 
-Step 4. Thats It!
+Step 4. Thats It you will see a Trash Folder on Your Desktop!
