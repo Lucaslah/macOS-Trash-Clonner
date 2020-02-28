@@ -21,3 +21,6 @@ Step 2. get info on your trash icon on the dock copy the icon
 Step 3. On finder press go to file and type into ./trash then get info in the trash folder and past the icon into it.
 
 Step 4. run the run.command file and you will see your icon added to your trash folder on your desktop drag the startthetrash file into it and thats it you are done!
+
+### For more info a video will be made soon on how to do it all
+### If you need help now email nsxl1uke@gmail.com you will get a replay with in 1-2 days 
