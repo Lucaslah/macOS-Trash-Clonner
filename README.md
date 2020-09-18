@@ -1,3 +1,7 @@
+
+****NOTICE OF REPO ARCHIVE****
+**THIS REPO IS NOW ARCHIVED**
+
 # macOS Trash Clonner
 Make a Copy of your Trash on your Desktop! On macOS
 
@@ -22,5 +26,3 @@ Step 3. On finder press go to file and type into ./trash then get info in the tr
 
 Step 4. run the run.command file and you will see your icon added to your trash folder on your desktop drag the startthetrash file into it and thats it you are done!
 
-### For more info a video will be made soon on how to do it all
-### If you need help now email nsxl1uke@gmail.com you will get a replay with in 1-2 days 
