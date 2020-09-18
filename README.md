@@ -1,6 +1,6 @@
 
-****NOTICE OF REPO ARCHIVE****
-****THIS REPO IS NOW ARCHIVED****
+*******NOTICE OF REPO ARCHIVE*******
+- THIS REPO IS NOW ARCHIVED
 
 # macOS Trash Clonner
 Make a Copy of your Trash on your Desktop! On macOS
